@@ -1,5 +1,1 @@
-export default interface post {
-    user: string,
-    title: string,
-    body: string
-}
+export default interface post {title: string,body: string}
