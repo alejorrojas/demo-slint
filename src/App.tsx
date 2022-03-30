@@ -6,7 +6,7 @@ const App = () => (
   <div className="App">
     <NavBar />
     <div className="content">
-      <h1>Blog Webb 🌠</h1>
+      <h1>Blog Web 🌠</h1>
       <Blogs />
     </div>
   </div>
