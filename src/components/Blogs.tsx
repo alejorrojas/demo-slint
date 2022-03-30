@@ -2,6 +2,12 @@ import { useEffect, useState } from 'react'
   import Blog from "./Blog";
      import post from './Interfaces'
 
+//bajar las props de un componente
+//agregar return type
+//max guarning - cantidad
+//cambiar warning y erros
+
+
 const Blogs = function(){
 const [posts, setPosts] = useState<post[]>([])
 
