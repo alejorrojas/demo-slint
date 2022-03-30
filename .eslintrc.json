@@ -24,6 +24,9 @@
         "react/react-in-jsx-scope": "off",
         "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
         "import/extensions": ["error", "never", { "svg": "always" }],
-        "import/no-unresolved": "off"
+        "import/no-unresolved": "off",
+        "react/jsx-one-expression-per-line": "off",
+        "semi": "off",
+        "react/function-component-definition":[2, { "namedComponents": "arrow-function" }]
     }
 }
